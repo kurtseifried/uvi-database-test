@@ -1,0 +1,30 @@
+{
+    "UVI_ID": 20000016,
+    "aliases": [
+        {
+            "ids": "CVE-2001-0012",
+            "namespace": "cve.mitre.org"
+        },
+        {
+            "ids": "DSA-026-1",
+            "namespace": "www.debian.org"
+        }
+    ],
+    "meta_data": {
+        "source": {
+            "meta_data": {
+                "uvi_advisory_formatting_issues": "no",
+                "uvi_processed_timestamp": "2021-08-03T03:18:05.110740Z",
+                "uvi_script_hash": "181554e37567de9a4b4069b78e473a8edce1bc5e80c4f65bd36734d2b48cf601618b527163f2371322d7d2c974fcc72e50a6617b535c5a38df7add95cb74dcdf",
+                "uvi_script_name": "./www.debian.org-processing.py",
+                "uvi_script_version": "0.1.2",
+                "uvi_url_processed": "https://www.debian.org/security/2001/dsa-026"
+            },
+            "uvi_url_processed": "https://www.debian.org/security/2001/dsa-026"
+        },
+        "uvi_processed_timestamp": "2021-08-03T04:45:24.373568Z",
+        "uvi_script_hash": "1f3d232f8084e44a5c1d35b6d37d8a0105b74983173684e5a46648c547dff96931c36cea22d4ea7ba25438286eb7a080798d8ebdb05c100ca9b69dc79b79b9f4",
+        "uvi_script_name": "./generate-uvis-test.py",
+        "uvi_script_version": "0.0.1"
+    }
+}
